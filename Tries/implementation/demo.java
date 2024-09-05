@@ -1,5 +1,6 @@
 
-public class tries {
+
+class tries {
    
    static class Node {
 
@@ -95,14 +96,31 @@ public class tries {
    }
 
 
+   
+
+
+
+
+}
+
+
+
+/**
+ * demo
+ */
+public class demo {
+
    public static void main(String[] args) {
       
 
       String[] words = {"hello", "world", "this", "is", "a", "test"};
 
+      tries t = new tries();
+      
+
       for(int i=0; i<words.length; i++) {
 
-         insert(words[i]);
+         t.insert(words[i]);
          
       }
 
@@ -112,11 +130,8 @@ public class tries {
       // System.out.println(search("thiser"));  // false
 
       
-      printTries(root, 0);
+      
 
    }
-
-
-
-
+   
 }
