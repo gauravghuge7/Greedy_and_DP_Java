@@ -1,6 +1,4 @@
-package Graph.Cycle_Detection;
-import java.util.*;
-
+import java.util.ArrayList;
 
 class Edge {
 
@@ -17,19 +15,17 @@ class Edge {
 }
 
 
-public static void createGraph(ArrayList<Edge> graph[]) {
-
-
-   
-
-}
 
 
 
-/**
- * cycle
- */
 public class cycle {
+
+
+   public static void createGraph(ArrayList<Edge> graph[]) {
+
+      
+
+   }
 
    
    public static void main(String[] args) {

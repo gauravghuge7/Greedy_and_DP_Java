@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/06_DSA_greedy_DP_GRAPH.iml" filepath="$PROJECT_DIR$/06_DSA_greedy_DP_GRAPH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic_Programming/Dynamic_Programming.iml" filepath="$PROJECT_DIR$/Dynamic_Programming/Dynamic_Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic_Programming/Fibonaci_Pattern/Fibonaci_Pattern.iml" filepath="$PROJECT_DIR$/Dynamic_Programming/Fibonaci_Pattern/Fibonaci_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Striver_Graph_playlist/Representation_graph/Representation_graph.iml" filepath="$PROJECT_DIR$/Striver_Graph_playlist/Representation_graph/Representation_graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shradha_didi_Graph/Shradha_Didi_Graph.iml" filepath="$PROJECT_DIR$/Shradha_didi_Graph/Shradha_Didi_Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Striver_Graph_playlist/Striver_Graph_playlist.iml" filepath="$PROJECT_DIR$/Striver_Graph_playlist/Striver_Graph_playlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tries/Tries.iml" filepath="$PROJECT_DIR$/Tries/Tries.iml" />
+    </modules>
+  </component>
+</project>
